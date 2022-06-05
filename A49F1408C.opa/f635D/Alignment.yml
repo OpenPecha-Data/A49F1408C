@@ -1,0 +1,28 @@
+segment_sources:
+  I0C9FC28F:
+    type: origin_type
+    relation: translation
+    language: en
+  ICF402925:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a5d23e2b5f2e460988a8dfe1d43cba7b:
+    I0C9FC28F: 56081cf3a08247838e70507f63f05329
+    ICF402925: af4f3153465742c59599a254f23c077d
+  7f639219702c4685bbd2abc52a0ba5ee:
+    I0C9FC28F: ed7fda54c33f4a6cb1e5252cc11fca4c
+    ICF402925: 960051ae1fd948ff9f79bb863af816cf
+  ce1830d762d64461ad42fa1357659726:
+    I0C9FC28F: aee7bb66a2f54a218ec4b71adf21a956
+    ICF402925: 7a122bd62dde4744bc3b4dc88974cd21
+  de22de6e099446af894c55f9c815cfb7:
+    I0C9FC28F: 39a6d14d9708486fb519635e8c7a17da
+    ICF402925: 4cf32c82992a465d971604b8b14d5919
+  8a2f28458d794cd68b642846d15f3c10:
+    I0C9FC28F: a34a3e949e2a475197aa00c5c2bc2fd6
+    ICF402925: d4c03296c4764836b416becbfb668fe4
+  b09a84e04c724002a3a6cfefa64463e7:
+    I0C9FC28F: a1ed4df6c78f4e62b788ffd004e00000
+    ICF402925: be46f55651644fb08a581bca8bd433c2

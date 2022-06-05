@@ -1,0 +1,19 @@
+segment_sources:
+  I0C9FC28F:
+    type: origin_type
+    relation: translation
+    language: en
+  ICF402925:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8ede3c346bda4c58acea568cf0473d70:
+    I0C9FC28F: 9f67fe7b204d44f8946c729da4ff5899
+    ICF402925: f18bb8ee17124997a33e70adf5889d6c
+  f475d70d8afb49e18575abcb6dddb65a:
+    I0C9FC28F: 11ffd244bd0f4453aa630e9826a965ac
+    ICF402925: 355f6963e501433082d2091835e79f19
+  51709be0e55643669fa311936d9905b6:
+    I0C9FC28F: ce406e2193bf4035941448b7d03932c0
+    ICF402925: f26cba60ea95486f8257ea432de65dc5
